@@ -14,10 +14,11 @@
 
 - how to run project
 
-|          angular           |         reactjs         |           vuejs          |
-|          -------           |         -------         |           -----          |
-| cd your_project_directory  | cd your_project_directory | cd your_project_directory |
-| ng serve                   |      npm start          |    npm run serve          |
+| --- |          angular           |         reactjs         |           vuejs          |
+| --- |          -------           |         -------         |           -----          |
+| --- | cd your_project_directory  | cd your_project_directory | cd your_project_directory |
+| --- | ng serve                   | npm run react-scripts start | npm run vue-cli-service serve |
+| if set script in package.js | ng start | npm start | npm run serve |
 
 - how project look like 
 
