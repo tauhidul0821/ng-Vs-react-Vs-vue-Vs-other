@@ -30,7 +30,7 @@
 
 |          angular           |         reactjs         |           vuejs          |
 | ---- | ---- | ----- |
-| ![Screenshot 2021-08-31 at 12 14 42 AM](https://user-images.githubusercontent.com/58136550/131385335-e9064218-c319-4a15-9559-ebd38e3c2f1d.png) |  |  |
+| ![Screenshot 2021-08-31 at 12 14 42 AM](https://user-images.githubusercontent.com/58136550/131385335-e9064218-c319-4a15-9559-ebd38e3c2f1d.png) | ![Screenshot 2021-08-31 at 12 28 13 AM](https://user-images.githubusercontent.com/58136550/131387001-048b88c7-b6f1-4673-a07b-c6ae9de91dca.png) | ![Screenshot 2021-08-31 at 12 36 21 AM](https://user-images.githubusercontent.com/58136550/131387954-c212b402-b117-4d76-9b9c-1f64624e36c2.png) |
 
 
 - how to show component
