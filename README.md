@@ -1,5 +1,5 @@
 # ng-Vs-react-Vs-vue-Vs-other
-# All common feature
+# install & setup 
 - how to install 
 
 |          angular           |         reactjs         |           vuejs          |
@@ -17,7 +17,7 @@
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
 | cd your_project_directory  | cd your_project_directory | cd your_project_directory |
-| ng serve                   |      npm start          |           -----          |
+| ng serve                   |      npm start          |    npm run serve          |
 
 - how project look like 
 
