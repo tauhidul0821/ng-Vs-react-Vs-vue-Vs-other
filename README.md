@@ -39,12 +39,6 @@
 |          -------           |         -------         |           -----          |
 |          -------           |         -------         |           -----          |
 
-- how to declear a variable & show on console
-
-|          angular           |         reactjs         |           vuejs          |
-|          -------           |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
-
 - how to show value from other component 
 
 |          angular           |         reactjs         |           vuejs          |
