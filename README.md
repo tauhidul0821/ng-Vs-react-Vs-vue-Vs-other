@@ -4,22 +4,20 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| npm install -g @angular/cli  |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
+| npm install -g @angular/cli  | no need to install anything | npm install -g @vue/cli |
 
 - how to create app
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| ng new yor_project_name |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
+|   ng new your_project_name  | npx create-react-app your_project_name | vue create your_project_name |
 
 - how to run project
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| ng serve |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
+| cd your_project_directory  | cd your_project_directory | cd your_project_directory |
+| ng serve                   |      npm start          |           -----          |
 
 - how project look like 
 
