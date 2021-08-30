@@ -2,6 +2,9 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const name = 'Tauhidul Islam';
+  console.log('here you go!')
+  console.log(name)
   return (
     <div className="App">
       <header className="App-header">
