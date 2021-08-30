@@ -18,7 +18,7 @@
 | --- |          -------           |         -------         |           -----          |
 | --- | cd your_project_directory  | cd your_project_directory | cd your_project_directory |
 | --- | ng serve                   | npm run react-scripts start | npm run vue-cli-service serve |
-| if set script in package.js | ng start | npm start | npm run serve |
+| if set script <br/> in package.js | ng start | npm start | npm run serve |
 
 - how project look like 
 
