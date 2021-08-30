@@ -29,6 +29,7 @@
 - how to debug code by console.log()
 
 |          angular           |         reactjs         |           vuejs          |
+| ---- | ---- | ----- |
 | ![Screenshot 2021-08-31 at 12 14 42 AM](https://user-images.githubusercontent.com/58136550/131385335-e9064218-c319-4a15-9559-ebd38e3c2f1d.png) |  |  |
 
 
