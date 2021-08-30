@@ -37,7 +37,13 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  mounted(){
+    const name = 'Tauhidul Islam'
+    console.log('here you go!')
+    console.log(name)
   }
+
 }
 </script>
 
