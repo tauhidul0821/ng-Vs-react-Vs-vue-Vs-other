@@ -45,7 +45,7 @@
 |          -------           |         -------         |           -----          |
 |          -------           |         -------         |           -----          |
 
-- how to looping a array inside web pages 
+- how to looping an object inside web pages 
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
