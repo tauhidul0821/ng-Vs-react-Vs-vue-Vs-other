@@ -45,7 +45,13 @@
 |          -------           |         -------         |           -----          |
 |          -------           |         -------         |           -----          |
 
-- how to looping an object inside web pages 
+- for loop
+
+|          angular           |         reactjs         |           vuejs          |
+|          -------           |         -------         |           -----          |
+|          -------           |         -------         |           -----          |
+
+- if else
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
