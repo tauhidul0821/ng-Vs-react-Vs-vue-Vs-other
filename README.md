@@ -36,7 +36,7 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| ![Sc](https://user-images.githubusercontent.com/10520882/131722731-daf5d8c8-7085-4c8b-a86a-88315ea8bf9c.png) |         -------         |           -----          |
+| ![Sc](https://user-images.githubusercontent.com/10520882/131722731-daf5d8c8-7085-4c8b-a86a-88315ea8bf9c.png) | ![s](https://user-images.githubusercontent.com/10520882/131724279-cf7e70f9-a890-4870-9374-e6e853e51e8c.png) |           -----          |
 
 
 - for loop
