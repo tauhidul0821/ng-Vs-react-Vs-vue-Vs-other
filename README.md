@@ -36,7 +36,7 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
+| ![Screenshot 2021-09-01 at 11 58 21 PM](https://user-images.githubusercontent.com/10520882/131720762-ca0e2fa7-fc0c-4543-aa3a-bd6fe94ff7db.png) |         -------         |           -----          |
 
 
 - for loop
