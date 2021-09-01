@@ -39,12 +39,6 @@
 |          -------           |         -------         |           -----          |
 
 
-- how to show component
-
-|          angular           |         reactjs         |           vuejs          |
-|          -------           |         -------         |           -----          |
-|          -------           |         -------         |           -----          |
-
 - for loop
 
 |          angular           |         reactjs         |           vuejs          |
@@ -52,6 +46,19 @@
 |          -------           |         -------         |           -----          |
 
 - if else
+
+|          angular           |         reactjs         |           vuejs          |
+|          -------           |         -------         |           -----          |
+|          -------           |         -------         |           -----          |
+
+- show and hide
+
+|          angular           |         reactjs         |           vuejs          |
+|          -------           |         -------         |           -----          |
+|          -------           |         -------         |           -----          |
+
+
+- how to show component
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
