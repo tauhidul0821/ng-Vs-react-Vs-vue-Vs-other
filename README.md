@@ -30,7 +30,19 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| *ngFor, *ngIf, ngModel,@input,@output,@ViewChild |         -------         |           -----          |
+| *ngFor, *ngIf, ngModel,@input,@output,@ViewChild,(click),forChild,forRoot | render,return,fragment,props,state,super,ref, | v-if,v-else-if,v-else,v-show,v-model,v-for,:key,v-bind:href,:href,:disable,:class,:style,:v-on:, |
+
+- lifecycle hook
+
+|          angular           |         reactjs         |           vuejs          |
+|          -------           |         -------         |           -----          |
+| ngOnInit,ngOnChanges,ngDoCheck,ngAfterContentInit,ngAfterContentChecked,ngAfterViewInit,ngAfterViewChecked,ngOnDestroy | componentWillMount,componentDidMount,componentWillReceiveProps,shouldComponentUpdate,componentWillUpdate,componentDidUpdate,componentWillUnmount,componentDidCatch, | beforeCreate,created,beforeMount,mounted,beforeUpdate,updated,beforeDestroy,destroyed |
+
+- event
+
+|          angular           |         reactjs         |           vuejs          |
+|          -------           |         -------         |           -----          |
+|          -------           |         -------         |           -----          |
 
 
 - how to debug code by console.log()
