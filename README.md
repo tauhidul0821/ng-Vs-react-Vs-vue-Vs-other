@@ -35,8 +35,19 @@
 - lifecycle hook
 
 |          angular           |         reactjs         |           vuejs          |
-|          -------           |         -------         |           -----          |
-| ngOnInit,ngOnChanges, ngDoCheck, ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit, ngAfterViewChecked, ngOnDestroy | componentWillMount, componentDidMount,componentWillReceiveProps, shouldComponentUpdate, componentWillUpdate, componentDidUpdate, componentWillUnmount, componentDidCatch, | beforeCreate, created, beforeMount, mounted, beforeUpdate, updated, beforeDestroy, destroyed |
+|          -------           |         ------         |           -------          |
+| ngOnInit | componentWillMount| beforeCreate |
+| ngOnChanges | componentDidMount | created |
+| ngDoCheck | componentWillReceiveProps | beforeMount |
+| ngAfterContentInit | shouldComponentUpdate | mounted |
+| ngAfterContentChecked | componentWillUpdate | beforeUpdate |
+| ngAfterViewInit | componentDidUpdate | updated |
+| ngOnDestroy | componentWillUnmount | beforeDestroy |
+| ngAfterViewChecked | componentDidCatch | destroyed |
+| ----- |         -------         |           -----          |
+| -------           |         -------         |           -----          |
+| -------           |         -------         |           -----          |
+| -------           |         -------         |           -----          |
 
 - event
 
