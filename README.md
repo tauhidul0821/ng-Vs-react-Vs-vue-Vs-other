@@ -36,7 +36,7 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| ngOnInit,ngOnChanges,ngDoCheck,ngAfterContentInit,ngAfterContentChecked,ngAfterViewInit,ngAfterViewChecked,ngOnDestroy | componentWillMount,componentDidMount,componentWillReceiveProps,shouldComponentUpdate,componentWillUpdate,componentDidUpdate,componentWillUnmount,componentDidCatch, | beforeCreate,created,beforeMount,mounted,beforeUpdate,updated,beforeDestroy,destroyed |
+| ngOnInit,ngOnChanges, ngDoCheck, ngAfterContentInit, ngAfterContentChecked, ngAfterViewInit, ngAfterViewChecked, ngOnDestroy | componentWillMount, componentDidMount,componentWillReceiveProps, shouldComponentUpdate, componentWillUpdate, componentDidUpdate, componentWillUnmount, componentDidCatch, | beforeCreate, created, beforeMount, mounted, beforeUpdate, updated, beforeDestroy, destroyed |
 
 - event
 
