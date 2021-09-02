@@ -30,13 +30,13 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| *ngFor, *ngIf, ngModel,@input,@output,@ViewChild,(click),forChild,forRoot | render,return,fragment,props,state,super,ref, | v-if,v-else-if,v-else,v-show,v-model,v-for,:key,v-bind:href,:href,:disable,:class,:style,:v-on:, |
+| *ngFor, *ngIf, ngModel,@input,@output,@ViewChild,forChild,forRoot | render,return,fragment,props,state,super,ref, | v-if,v-else-if,v-else,v-show,v-model,v-for,:key,v-bind:href,:href,:disable,:class,:style,:v-on:, |
 
-- lifecycle hook
+- lifecycle hook: we can run code different points 
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         ------         |           -------          |
-| ngOnInit | componentWillMount| beforeCreate |
+| ngOnInit | componentWillMount| beforeCreate: this fires before the component is even fully create and it's at the very start of it's initialization |
 | ngOnChanges | componentDidMount | created |
 | ngDoCheck | componentWillReceiveProps | beforeMount |
 | ngAfterContentInit | shouldComponentUpdate | mounted |
