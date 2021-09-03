@@ -30,7 +30,7 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         -------         |           -----          |
-| *ngFor, *ngIf, ngModel,@input,@output,@ViewChild,forChild,forRoot | render,return,fragment,props,state,super,ref, | v-if,v-else-if,v-else,v-show,v-model,v-for,:key,v-bind:href,:href,:disable,:class,:style,:v-on:, |
+| *ngFor, *ngIf, ngModel, @input, @output, @ViewChild, forChild, forRoot | render, return, fragment, props, state, super, ref, | v-if, v-else-if, v-else, v-show, v-model, v-for, :key, v-bind:href, :href, :disable,:class, :style,:v-on:, |
 
 - lifecycle hook: we can run code different points 
 
