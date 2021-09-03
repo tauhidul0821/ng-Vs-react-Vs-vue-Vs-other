@@ -36,14 +36,14 @@
 
 |          angular           |         reactjs         |           vuejs          |
 |          -------           |         ------         |           -------          |
-| ngOnInit | componentWillMount| beforeCreate: this fires before the component is even fully create and it's at the very start of it's initialization |
-| ngOnChanges | componentDidMount | created |
-| ngDoCheck | componentWillReceiveProps | beforeMount |
-| ngAfterContentInit | shouldComponentUpdate | mounted |
-| ngAfterContentChecked | componentWillUpdate | beforeUpdate |
-| ngAfterViewInit | componentDidUpdate | updated |
-| ngOnDestroy | componentWillUnmount | beforeDestroy |
-| ngAfterViewChecked | componentDidCatch | destroyed |
+| ngOnInit | componentWillMount| beforeCreate: this fires before the component is even fully create and it's at the very start of it's initialization,inside hook we can't access any data from the data object or any template elements. |
+| ngOnChanges | componentDidMount | created: when it's created the components we fired the created hook and this is when the component has been created but not yet mounted to the dom. now we can access the data now,but we still can't access the template. |
+| ngDoCheck | componentWillReceiveProps | beforeMount: just before our component is mounted to the DOM. in here we can now access all of our data, events and templates |
+| ngAfterContentInit | shouldComponentUpdate | mounted: this is popular place to make request if you need data for your component. |
+| ngAfterContentChecked | componentWillUpdate | beforeUpdate: |
+| ngAfterViewInit | componentDidUpdate | updated: |
+| ngOnDestroy | componentWillUnmount | beforeDestroy: |
+| ngAfterViewChecked | componentDidCatch | destroyed: |
 | ----- |         -------         |           -----          |
 | -------           |         -------         |           -----          |
 | -------           |         -------         |           -----          |
