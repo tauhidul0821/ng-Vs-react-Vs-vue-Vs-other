@@ -40,10 +40,10 @@
 | ngOnChanges | componentDidMount | created: when it's created the components we fired the created hook and this is when the component has been created but not yet mounted to the dom. now we can access the data now,but we still can't access the template. |
 | ngDoCheck | componentWillReceiveProps | beforeMount: just before our component is mounted to the DOM. in here we can now access all of our data, events and templates |
 | ngAfterContentInit | shouldComponentUpdate | mounted: this is popular place to make request if you need data for your component. |
-| ngAfterContentChecked | componentWillUpdate | beforeUpdate: |
-| ngAfterViewInit | componentDidUpdate | updated: |
-| ngOnDestroy | componentWillUnmount | beforeDestroy: |
-| ngAfterViewChecked | componentDidCatch | destroyed: |
+| ngAfterContentChecked | componentWillUpdate | beforeUpdate: we know that data can change either over time use events like clicking buttons, means when that data updates and changes, then we fire the before update hook |
+| ngAfterViewInit | componentDidUpdate | updated: once the average added to the DOM, we fire the updated hook and that's after all of the updates |
+| ngOnDestroy | componentWillUnmount | beforeUnmount: when the component is no longer needs on the screen in the browser, it's removed. this point we fire two final hook beforeUnmount and unmounted |
+| ngAfterViewChecked | componentDidCatch | unmounted: when the component is no longer needs on the screen in the browser, it's removed. this point we fire two final hook beforeUnmount and unmounted, which we could use for any component cleanup. |
 | ----- |         -------         |           -----          |
 | -------           |         -------         |           -----          |
 | -------           |         -------         |           -----          |
